@@ -1,4 +1,5 @@
-﻿Time,Date,CH MAC,Aggregated Data: Temp and Moisture,,No. of MNs
+﻿Time,Date,CH MAC,Aggregated Data,,No. of MNs
+,,,Temperature,Moisture,
 6:11:03 AM,8/28/2021,B8:27:EB:97:CB:E1,38.85,325,4
 6:12:03 AM,8/28/2021,B8:27:EB:44:04:B1,37.67,334,4
 9:11:03 AM,8/28/2021,B8:27:EB:97:CB:E1,40.75,293,4
