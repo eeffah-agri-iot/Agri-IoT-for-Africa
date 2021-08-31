@@ -1,4 +1,4 @@
-time of sampling,date of sampling,MN's MAC Address,Temperature ,Moisture
+time of sampling,date of sampling,MN's MAC Address,Temperature/C ,Moisture/''
 21:01:04,6/20/2021,B8:27:EB:55:04:6A,28.52,317
 21:03:03,6/20/2021,B8:27:EB:44:04:B1,28.08,315
 21:05:05,6/21/2021,B8:27:EB:3E:4F:56,29.51,315
